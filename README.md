@@ -38,24 +38,27 @@ Before you begin, ensure you have met the following requirements:
    cd sunbase-assignment
 
 2. Build and run the Spring Boot applicationy:
-  ```bash
-   ./mvnw spring-boot:run
+      ```bash
+    ./mvnw spring-boot:run
 
-3. start frontend using live server:
+
+4. start frontend using live server:
 
 Frontend
 The frontend is a simple web application that allows you to perform the basic operations mentioned above.
 You can access it by navigating to http://localhost:5500 in your web browser.
 
 # Usage
-  Authentication
-  ## Customer Operations
-   Create a New Customer
-   Get Customer List
-   Delete a Customer
-   Update customer
+1.  Authentication 
+2.  Create a New Customer
+3.  Get Customer List
+4.  Delete a Customer
+5.  Update customer
 
 
 Contributing
 Contributions are welcome! If you'd like to contribute..
 
+![login](https://github.com/kumarprem66/Sunbase-Assignment/blob/main/login.jpg)
+![create](https://github.com/kumarprem66/Sunbase-Assignment/blob/main/cus-create.jpg)
+![list](https://github.com/kumarprem66/Sunbase-Assignment/blob/main/cus-list.jpg)
