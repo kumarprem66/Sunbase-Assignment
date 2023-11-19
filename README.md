@@ -42,7 +42,8 @@ Before you begin, ensure you have met the following requirements:
     ./mvnw spring-boot:run
 
 
-4. start frontend using live server:
+4. start frontend using this netlify link
+https://6559db060306dc171494a914--clinquant-kelpie-f4ef87.netlify.app/
 
 Frontend
 The frontend is a simple web application that allows you to perform the basic operations mentioned above.
